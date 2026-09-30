@@ -1,0 +1,55 @@
+﻿name: Naise AI
+tagline: AI marketing teammate for campaign execution
+description: >-
+  Naise AI is a web platform for running marketing workflows across social
+  media, influencer campaigns, PR, image generation and market research.
+  Teams give it a brief and use its agents to produce and execute campaign work.
+problem: Marketing teams often split campaign execution across separate tools and repetitive manual steps.
+audience:
+  - Marketing teams
+  - Marketing agencies
+website: https://naise.ai/
+access:
+  - kind: signup
+    url: https://naise.ai/app/register
+categories:
+  - marketing
+  - ai-and-agents
+stage: live
+pricing:
+  model: paid
+  entry_price:
+    amount_minor: 5990
+    currency: usd
+    interval: month
+  pricing_url: https://naise.ai/pricing
+platforms:
+  - web
+location:
+  country: SG
+  city: Singapore
+links:
+  - kind: blog
+    url: https://naise.ai/blog
+sources:
+  - url: https://naise.ai/
+    title: Naise AI official website
+  - url: https://naise.ai/pricing
+    title: Naise AI pricing
+  - url: https://naise.ai/blog/naise-ai-is-officially-live-the-era-of-manual-execution-is-over
+    title: Naise AI is Officially Live
+launch:
+  title: Naise AI opens to the public
+  summary: Naise AI announced that its marketing automation platform was live and open to the public.
+  occurred_on:
+    precision: day
+    value: "2026-08-05"
+  date_basis: effective
+  source:
+    url: https://naise.ai/blog/naise-ai-is-officially-live-the-era-of-manual-execution-is-over
+    title: Naise AI is Officially Live
+    locator: Opening section states that Naise AI is officially live and open to the public.
+
+logo:
+  path: logo.png
+  alt: Naise AI logo
